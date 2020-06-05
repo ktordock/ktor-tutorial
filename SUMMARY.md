@@ -1,6 +1,6 @@
 * [建立 ktor 專案](build.md)
-* Hello World
-* 建立 code style 檢查
+* [Hello World](HelloWorld.md)
+* [建立 code style 檢查](CodeStyle.md)
 * 建立新 route
 * 建立 json response（用 jackson 套件）
 * 建立環境（DB）
