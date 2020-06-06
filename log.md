@@ -16,5 +16,11 @@ compile("ch.qos.logback:logback-classic:1.2.3")
 import java.util.logging.*
 ```
 
+之後，就可以在程式需要紀錄的地方加上 log 了
+
+```kotlin
+log.error("test")
+```
+
 ## 參考資料
 https://ktor.io/servers/logging.html
